@@ -1,0 +1,12 @@
+{
+  "projectName": "Greenfield Demo",
+  "goal": "Criar uma plataforma para organizar aulas particulares.",
+  "repository": {
+    "kind": "none"
+  },
+  "issueTracker": {
+    "kind": "none"
+  },
+  "requestedArtifacts": ["prd", "agent-foundation"],
+  "notes": "O sistema deve conduzir entrevista completa e distinguir decisões de sugestões."
+}

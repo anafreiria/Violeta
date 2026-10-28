@@ -1,0 +1,16 @@
+{
+  "projectName": "Atlas Demo",
+  "goal": "Adicionar lembretes de medicamentos a uma aplicação fictícia.",
+  "repository": {
+    "kind": "github",
+    "reference": "example/atlas-demo",
+    "access": "read"
+  },
+  "issueTracker": {
+    "kind": "linear",
+    "reference": "ATL-42",
+    "access": "read"
+  },
+  "requestedArtifacts": ["prd", "agent-foundation"],
+  "sensitivePaths": [".env", "data/private/**"]
+}
